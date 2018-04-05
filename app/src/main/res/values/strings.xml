@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="name_field">name</string>
+
+    //question1
+    <string name="questionpage1">1. What is a typeface?</string>
+    <string name="q1a1">same as a font</string>
+    <string name="q1a2">family of fonts</string>
+    <string name="q1a3">a style / weight within a type family</string>
+
+    //question2
+    <string name="questionpage2">2. What are the two typeface classifications?</string>
+    <string name="q2a1">thin and thickness of a font</string>
+    <string name="q2a2">italic and bold</string>
+    <string name="q2a3">serif and sans serif</string>
+
+    //answer A B or both of the above
+    <string name="a1">A</string>
+    <string name="a2">B</string>
+    <string name="a3">both of the above</string>
+
+    //question3
+    <string name="questionpage3">3. Which is sans serif?</string>
+
+
+    //question4
+    <string name="questionpage4">4. Which one is ascender?</string>
+
+    //question5
+    <string name="questionpage5">5. Which one is descender?</string>
+
+    //answer A B C D
+    <string name="choice1">A</string>
+    <string name="choice2">B</string>
+    <string name="choice3">C</string>
+    <string name="choice4">D</string>
+
+    //question6
+    <string name="questionpage6">6. What is the highlighted area call?</string>
+    <string name="hint">one word</string>
+
+    //answer true false
+    <string name="answer1">true</string>
+    <string name="answer2">false</string>
+
+    //question7
+    <string name="questionpage7">7. Select all the ones that are stems.</string>
+
+    //question8
+    <string name="questionpage8">8. Is the display called cap height?</string>
+
+    //submit
+    <string name="submit_btn">submit answers</string>
+
+</resources>
+
+
